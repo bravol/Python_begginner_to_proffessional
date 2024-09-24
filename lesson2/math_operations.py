@@ -1,0 +1,7 @@
+print(123+123)
+print(12*12)
+print(7-2)
+print(3*1)
+print(5//3)
+print (5/3)
+print(2**3)

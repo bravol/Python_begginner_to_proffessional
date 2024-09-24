@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="5fa91aee-661e-4143-9f57-9c551b0553c2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/lesson4/my_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/my_module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/bmi.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/bmi.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +27,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.bmi.executor": "Run",
+    "Python.if_statements.executor": "Run",
     "Python.lists.executor": "Run",
+    "Python.modulo_operator.executor": "Run",
     "Python.my_module.executor": "Run",
+    "Python.pay_bill.executor": "Run",
+    "Python.pizza_order_practice.executor": "Run",
+    "Python.rock_paper_scissor_game.executor": "Run",
+    "Python.treasure_iland_game.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/brianbravol/Documents/GitHub/Python_begginner_to_proffessional"
