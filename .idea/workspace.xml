@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5fa91aee-661e-4143-9f57-9c551b0553c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson5(loops,Range, code_blocks)/password_generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson5(loops,Range, code_blocks)/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6(functions, code blocks, while loops)/indentation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6(functions, code blocks, while loops)/task.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +53,8 @@
     "Python.treasure_iland_game.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/brianbravol/Documents/GitHub/Python_begginner_to_proffessional"
+    "last_opened_file_path": "/Users/brianbravol/Documents/GitHub/Python_begginner_to_proffessional",
+    "settings.editor.selected.configurable": "settings.sync"
   }
 }]]></component>
   <component name="SharedIndexes">
