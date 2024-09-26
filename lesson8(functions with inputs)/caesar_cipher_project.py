@@ -1,3 +1,5 @@
+alphabet = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z']
+
 print(r'''
  _           _           _             
 | |         | |         | |            
@@ -8,7 +10,6 @@ print(r'''
                     __/ |              
                    |___/               
 ''')
-alphabet = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z']
 
 # ENCRYPT MESSAGE
 def encrypt(original_text, shift_amount):
@@ -47,7 +48,7 @@ def caesar(original_text, shift_amount, encode_or_decode):
     print(f"The {encode_or_decode} result was {output_text} ")
 
 
-should_continue=True
+should_continue = True
 while should_continue:
     direction = input("Type 'encode' to encrypt, type 'decode' to decrypt:\n ").lower()
     text = input("Type your message:\n").lower()
@@ -58,6 +59,6 @@ while should_continue:
     restart = input("Type 'yes' if you want to go again, Otherwise type 'no'.\n").lower()
 
     if restart == 'no':
-        should_continue=False
+        should_continue = False
         print("Good bye!")
 
