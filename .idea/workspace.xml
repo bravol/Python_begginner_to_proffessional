@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5fa91aee-661e-4143-9f57-9c551b0553c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson9(dictionaries and nesting)/student_grades_dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson9(dictionaries and nesting)/dictonary_nesting.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson9(dictionaries and nesting)/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson9(dictionaries and nesting)/task.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +37,7 @@
     "Python.bmi.executor": "Run",
     "Python.caesar_cipher_project.executor": "Run",
     "Python.datatypes.executor": "Run",
+    "Python.dictonary_nesting.executor": "Run",
     "Python.if_statements.executor": "Run",
     "Python.lists.executor": "Run",
     "Python.math_operations.executor": "Run",
