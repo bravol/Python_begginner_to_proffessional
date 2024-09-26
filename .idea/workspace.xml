@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5fa91aee-661e-4143-9f57-9c551b0553c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson7(Hangman project)/guess_word.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson7(Hangman project)/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson8(functions with inputs)/caesar_cipher_project.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson8(functions with inputs)/task.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +36,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.bmi.executor": "Run",
+    "Python.caesar_cipher_project.executor": "Run",
     "Python.datatypes.executor": "Run",
     "Python.if_statements.executor": "Run",
     "Python.lists.executor": "Run",
