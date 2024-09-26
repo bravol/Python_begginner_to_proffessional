@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5fa91aee-661e-4143-9f57-9c551b0553c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson9(dictionaries and nesting)/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson9(dictionaries and nesting)/student_grades_dictionary.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson8(functions with inputs)/caesar_cipher_project.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson8(functions with inputs)/caesar_cipher_project.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9(dictionaries and nesting)/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson9(dictionaries and nesting)/task.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +49,7 @@
     "Python.pizza_order_practice.executor": "Run",
     "Python.project_tip_calculator.executor": "Run",
     "Python.rock_paper_scissor_game.executor": "Run",
+    "Python.student_grades_dictionary.executor": "Run",
     "Python.task.executor": "Run",
     "Python.test.executor": "Run",
     "Python.treasure_iland_game.executor": "Run",
