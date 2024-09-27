@@ -74,7 +74,7 @@ game_over = False
 correct_letters = [] # storing the correct letter guessed
 
 while not game_over:
-    guess=input("Guess a letter: ").lower()
+    guess = input("Guess a letter: ").lower()
     if guess in correct_letters:
         print(f"You have already guessed {guess}")
 
