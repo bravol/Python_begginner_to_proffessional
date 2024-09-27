@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5fa91aee-661e-4143-9f57-9c551b0553c2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lesson11(Blackjack Capstone Project)/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson10(functions with output)/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson10(functions with output)/calculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson10(functions with output)/logo_image.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson10(functions with output)/logo_image.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +44,7 @@
     "Python.leap_year.executor": "Run",
     "Python.lists.executor": "Run",
     "Python.logo_image.executor": "Run",
+    "Python.main.executor": "Run",
     "Python.math_operations.executor": "Run",
     "Python.modulo_operator.executor": "Run",
     "Python.my_module.executor": "Run",
