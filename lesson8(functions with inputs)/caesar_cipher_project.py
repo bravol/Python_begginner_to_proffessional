@@ -25,10 +25,10 @@ def encrypt(original_text, shift_amount):
 def decrypt(original_text, shift_amount):
     decrypt_text=''
     for letter in original_text:
-        shift_position=alphabet.index(letter) - shift_amount
+        shift_position = alphabet.index(letter) - shift_amount
         shift_position %= len(alphabet) # makes sure that we are in the range of alphabet 26
         decrypt_text += alphabet[shift_position]
-    print(f" The original message was {decrypt_text} ")
+    print(f"The original message was {decrypt_text}")
 # decrypt(original_text = text, shift_amount = shift)
 
 def caesar(original_text, shift_amount, encode_or_decode):
@@ -36,21 +36,21 @@ def caesar(original_text, shift_amount, encode_or_decode):
     for letter in original_text:
 
         if letter not in alphabet:
-            output_text+=letter
+            output_text += letter
         else:
-            if encode_or_decode =='decode':
+            if encode_or_decode == 'decode':
                 shift_position = alphabet.index(letter) - shift_amount
             else:
                 shift_position = alphabet.index(letter) + shift_amount
 
             shift_position %= len(alphabet)
             output_text += alphabet[shift_position]
-    print(f"The {encode_or_decode} result was {output_text} ")
+    print(f"The {encode_or_decode} result was {output_text}")
 
 
 should_continue = True
 while should_continue:
-    direction = input("Type 'encode' to encrypt, type 'decode' to decrypt:\n ").lower()
+    direction = input("Type 'encode' to encrypt, type 'decode' to decrypt:\n").lower()
     text = input("Type your message:\n").lower()
     shift = int(input("Type the shift number:\n"))
 
