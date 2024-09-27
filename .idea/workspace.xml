@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5fa91aee-661e-4143-9f57-9c551b0553c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson10(functions with output)/leap_year.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson10(functions with output)/calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson10(functions with output)/docstrings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson10(functions with output)/logo_image.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson10(functions with output)/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson10(functions with output)/task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/randomisation.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/randomisation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson5(loops,Range, code_blocks)/password_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson5(loops,Range, code_blocks)/password_generator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson7(Hangman project)/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson7(Hangman project)/task.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,11 +39,13 @@
     "Python.bid_auction_project.executor": "Run",
     "Python.bmi.executor": "Run",
     "Python.caesar_cipher_project.executor": "Run",
+    "Python.calculator.executor": "Run",
     "Python.datatypes.executor": "Run",
     "Python.dictonary_nesting.executor": "Run",
     "Python.if_statements.executor": "Run",
     "Python.leap_year.executor": "Run",
     "Python.lists.executor": "Run",
+    "Python.logo_image.executor": "Run",
     "Python.math_operations.executor": "Run",
     "Python.modulo_operator.executor": "Run",
     "Python.my_module.executor": "Run",
