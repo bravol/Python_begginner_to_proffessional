@@ -5,9 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5fa91aee-661e-4143-9f57-9c551b0553c2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/game_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson14(Higher or lower game)/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson14(Higher or lower game)/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1/execise1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1(introduction to print, variables, et.c)/execise1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1/input_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1(introduction to print, variables, et.c)/input_function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1(introduction to print, variables, et.c)/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1/variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1(introduction to print, variables, et.c)/variables.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/bmi.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2(Manipulate strings)/bmi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/datatypes.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2(Manipulate strings)/datatypes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/math_operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2(Manipulate strings)/math_operations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2(Manipulate strings)/operators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/project_tip_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2(Manipulate strings)/project_tip_calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2(Manipulate strings)/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/if_statements.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3(Control Flow and logical Operators)/if_statements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/modulo_operator.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3(Control Flow and logical Operators)/modulo_operator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/pizza_order_practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3(Control Flow and logical Operators)/pizza_order_practice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/treasure_iland_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3(Control Flow and logical Operators)/treasure_iland_game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4/lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4(Randomisation and Python Lists)/lists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4/my_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4(Randomisation and Python Lists)/my_module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4/pay_bill.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4(Randomisation and Python Lists)/pay_bill.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4/randomisation.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4(Randomisation and Python Lists)/randomisation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4/rock_paper_scissor_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4(Randomisation and Python Lists)/rock_paper_scissor_game.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
