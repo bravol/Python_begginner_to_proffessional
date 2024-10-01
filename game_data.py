@@ -26,7 +26,7 @@ data = [
     {
         "name": "Selena Gomez",
         "follower_count": 174,
-        "description": "Musician and Actress  wr",
+        "description": "Musician and Actress",
         "country": "United States"
     },
     {
