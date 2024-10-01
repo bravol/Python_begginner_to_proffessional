@@ -23,7 +23,7 @@ operations = {
 # todo-3 use the dictionary operations to perform calculations
 # print(operations["*"](2,5))
 def calculator():
-    print(logo_image.calc +  logo_image.calculator_logo)
+    print(logo_image.calc + logo_image.calculator_logo)
     should_accumulate = True
     n1 = float(input("What is the first number?: "))
     while should_accumulate:
