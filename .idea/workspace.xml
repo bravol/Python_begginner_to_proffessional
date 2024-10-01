@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5fa91aee-661e-4143-9f57-9c551b0553c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Intermediate_level/lesson16(Object Oriented programming(OPP))/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate_level/lesson16(Object Oriented programming(OPP))/oop-coffee-machine-project/coffee_maker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate_level/lesson16(Object Oriented programming(OPP))/oop-coffee-machine-project/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate_level/lesson16(Object Oriented programming(OPP))/oop-coffee-machine-project/menu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate_level/lesson16(Object Oriented programming(OPP))/oop-coffee-machine-project/money_machine.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
