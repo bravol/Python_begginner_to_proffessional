@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="5fa91aee-661e-4143-9f57-9c551b0553c2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate_level/lesson17(creating quiz game using classes OPP)/quiz-game/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate_level/lesson17(creating quiz game using classes OPP)/quiz-game/data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate_level/lesson17(creating quiz game using classes OPP)/quiz-game/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate_level/lesson17(creating quiz game using classes OPP)/quiz-game/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate_level/lesson17(creating quiz game using classes OPP)/quiz-game/quiz_brain.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate_level/lesson17(creating quiz game using classes OPP)/quiz-game/quiz_brain.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +40,7 @@
     "Python.bmi.executor": "Run",
     "Python.caesar_cipher_project.executor": "Run",
     "Python.calculator.executor": "Run",
+    "Python.data.executor": "Run",
     "Python.datatypes.executor": "Run",
     "Python.dictonary_nesting.executor": "Run",
     "Python.final_project.executor": "Run",
@@ -55,6 +59,8 @@
     "Python.pizza_order_practice.executor": "Run",
     "Python.prime_numbers.executor": "Run",
     "Python.project_tip_calculator.executor": "Run",
+    "Python.question_model.executor": "Run",
+    "Python.quiz_brain.executor": "Run",
     "Python.randomisation.executor": "Run",
     "Python.reproduce_bug.executor": "Debug",
     "Python.rock_paper_scissor_game.executor": "Run",
