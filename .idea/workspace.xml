@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5fa91aee-661e-4143-9f57-9c551b0553c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Intermediate_level/lesson18(learn more of graphics)/hirst_painting/paint.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate_level/lesson18(learn more of graphics)/hirst_painting/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate_level/lesson18(learn more of graphics)/hirst_painting/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="5fa91aee-661e-4143-9f57-9c551b0553c2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
