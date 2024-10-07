@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5fa91aee-661e-4143-9f57-9c551b0553c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Intermediate_level/lesson20(Snake game)/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate_level/lesson20(Snake game)/snake.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate_level/lesson20(Snake game)/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate_level/lesson20(Snake game)/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate_level/lesson20(Snake game)/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate_level/lesson20(Snake game)/snake.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,49 +33,50 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.bid_auction_project.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bmi.executor&quot;: &quot;Run&quot;,
-    &quot;Python.caesar_cipher_project.executor&quot;: &quot;Run&quot;,
-    &quot;Python.calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.data.executor&quot;: &quot;Run&quot;,
-    &quot;Python.datatypes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dictonary_nesting.executor&quot;: &quot;Run&quot;,
-    &quot;Python.final_project.executor&quot;: &quot;Run&quot;,
-    &quot;Python.game_data.executor&quot;: &quot;Run&quot;,
-    &quot;Python.if_statements.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leap_year.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lists.executor&quot;: &quot;Run&quot;,
-    &quot;Python.logo_image.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.math_operations.executor&quot;: &quot;Run&quot;,
-    &quot;Python.modulo_operator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.my_module.executor&quot;: &quot;Run&quot;,
-    &quot;Python.operators.executor&quot;: &quot;Run&quot;,
-    &quot;Python.paint.executor&quot;: &quot;Run&quot;,
-    &quot;Python.password_generator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pay_bill.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pizza_order_practice.executor&quot;: &quot;Run&quot;,
-    &quot;Python.prime_numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.project_tip_calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pyramid.executor&quot;: &quot;Run&quot;,
-    &quot;Python.question_model.executor&quot;: &quot;Run&quot;,
-    &quot;Python.quiz_brain.executor&quot;: &quot;Run&quot;,
-    &quot;Python.randomisation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.reproduce_bug.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.rock_paper_scissor_game.executor&quot;: &quot;Run&quot;,
-    &quot;Python.spirograph.executor&quot;: &quot;Run&quot;,
-    &quot;Python.student_grades_dictionary.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.treasure_iland_game.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/brianbravol/Documents/GitHub/Python_begginner_to_proffessional&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.bid_auction_project.executor": "Run",
+    "Python.bmi.executor": "Run",
+    "Python.caesar_cipher_project.executor": "Run",
+    "Python.calculator.executor": "Run",
+    "Python.data.executor": "Run",
+    "Python.datatypes.executor": "Run",
+    "Python.dictonary_nesting.executor": "Run",
+    "Python.final_project.executor": "Run",
+    "Python.game_data.executor": "Run",
+    "Python.if_statements.executor": "Run",
+    "Python.leap_year.executor": "Run",
+    "Python.lists.executor": "Run",
+    "Python.logo_image.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.math_operations.executor": "Run",
+    "Python.modulo_operator.executor": "Run",
+    "Python.my_module.executor": "Run",
+    "Python.operators.executor": "Run",
+    "Python.paint.executor": "Run",
+    "Python.password_generator.executor": "Run",
+    "Python.pay_bill.executor": "Run",
+    "Python.pizza_order_practice.executor": "Run",
+    "Python.prime_numbers.executor": "Run",
+    "Python.project_tip_calculator.executor": "Run",
+    "Python.pyramid.executor": "Run",
+    "Python.question_model.executor": "Run",
+    "Python.quiz_brain.executor": "Run",
+    "Python.randomisation.executor": "Run",
+    "Python.reproduce_bug.executor": "Debug",
+    "Python.rock_paper_scissor_game.executor": "Run",
+    "Python.snake.executor": "Run",
+    "Python.spirograph.executor": "Run",
+    "Python.student_grades_dictionary.executor": "Run",
+    "Python.task.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.treasure_iland_game.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/brianbravol/Documents/GitHub/Python_begginner_to_proffessional",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Intermediate_level/lesson18(learn more of graphics)/hirst_painting" />
