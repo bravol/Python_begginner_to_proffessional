@@ -24,6 +24,12 @@ screen.onkey(snake.right,'Right')
 
 #2. move the snake
 game_is_on = True
+
+def game_is_over():
+    global game_is_on
+    game_is_on = False
+    scoreBoard.game_over()
+
 while game_is_on:
     screen.update()
     time.sleep(0.1)
@@ -33,5 +39,27 @@ while game_is_on:
     if snake.head.distance(food) < 15:
         food.random_location()
         scoreBoard.increase_score()
+        snake.extend_body()
+
+#     detect collision with wall
+    if snake.head.xcor() > 280 or snake.head.xcor() < -280 or snake.head.ycor() > 280 or snake.head.ycor() < -280:
+        game_is_over()
+
+# #     detect collision with the tail
+#     for segment in snake.segments:
+#         if segment == snake.head:
+#             pass
+#         elif snake.head.distance(segment) < 10:
+#             game_is_over()
+
+
+
+#       detect collision with the tail  USING SLICING
+    for segment in snake.segments[1:]:
+        if snake.head.distance(segment) < 10:
+            game_is_over()
+
+
+
 
 screen.exitonclick()
