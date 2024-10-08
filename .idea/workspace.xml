@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5fa91aee-661e-4143-9f57-9c551b0553c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Intermediate_level/lesson21(inheritance, slicing and finishing snake game)/slicing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate_level/lesson22(The Pong Game)/ball.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate_level/lesson22(The Pong Game)/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate_level/lesson22(The Pong Game)/paddle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate_level/lesson22(The Pong Game)/score_board.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate_level/lesson21(inheritance, slicing and finishing snake game)/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate_level/lesson21(inheritance, slicing and finishing snake game)/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate_level/lesson21(inheritance, slicing and finishing snake game)/score_board.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate_level/lesson21(inheritance, slicing and finishing snake game)/score_board.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate_level/lesson21(inheritance, slicing and finishing snake game)/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate_level/lesson21(inheritance, slicing and finishing snake game)/snake.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +37,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.ball.executor": "Run",
     "Python.bid_auction_project.executor": "Run",
     "Python.bmi.executor": "Run",
     "Python.caesar_cipher_project.executor": "Run",
@@ -56,6 +57,7 @@
     "Python.modulo_operator.executor": "Run",
     "Python.my_module.executor": "Run",
     "Python.operators.executor": "Run",
+    "Python.paddle.executor": "Run",
     "Python.paint.executor": "Run",
     "Python.password_generator.executor": "Run",
     "Python.pay_bill.executor": "Run",
