@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5fa91aee-661e-4143-9f57-9c551b0553c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Intermediate_level/lesson23(Capstone Project - Turtle Crossing game)/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate_level/lesson23(Capstone Project - Turtle Crossing game)/player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate_level/lesson23(Capstone Project - Turtle Crossing game)/score_board.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate_level/lesson23(Capstone Project - Turtle Crossing game)/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate_level/lesson23(Capstone Project - Turtle Crossing game)/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
