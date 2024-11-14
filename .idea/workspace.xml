@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5fa91aee-661e-4143-9f57-9c551b0553c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Intermediate_level/lesson25(Working with CSV files and Analysing Data with Pandas)/us-state-game/50_states.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate_level/lesson25(Working with CSV files and Analysing Data with Pandas)/us-state-game/blank_states_img.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate_level/lesson25(Working with CSV files and Analysing Data with Pandas)/us-state-game/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate_level/lesson25(Working with CSV files and Analysing Data with Pandas)/us-state-game/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate_level/lesson25(Working with CSV files and Analysing Data with Pandas)/us-state-game/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

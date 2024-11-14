@@ -1,17 +1,38 @@
 import turtle
+import pandas
 
-screen =turtle.Screen()
+screen = turtle.Screen()
 
 screen.title('U.S. State Game')
 image="blank_states_img.gif"
 screen.addshape(image)
 turtle.shape(image)
+
+# reading csv
+data = pandas.read_csv("50_states.csv")
+all_states = data.state.to_list()
+# storing guesed states
+guessed_states = []
 # create a pop-up box
-answer_state = screen.textinput(title='Guess the state', prompt="What's another state's name?")
-print(answer_state)
+while len(guessed_states) < 50:
+    answer_state = screen.textinput(title='Guess the state', prompt="What's another state's name?").title()
 
-
-
+    if answer_state =="Exit":
+        missing_states = [state for state in all_states if state not in guessed_states]
+        new_data = pandas.DataFrame(missing_states)
+        new_data.to_csv('states_to_learn.csv')
+        print(missing_states)
+        break
+    # if answer_state is one of the states in all the states of the 50_states.csv
+    if answer_state in all_states:
+        guessed_states.append(answer_state)
+        t = turtle.Turtle()
+        t.hideturtle()
+        t.penup()
+        state_data = data[data.state == answer_state]
+        t.goto(state_data.x.item(), state_data.y.item())
+        t.write(answer_state)
+       # t.write(state_data.state.item()) this also works
 
 
 # screen.exitonclick()
